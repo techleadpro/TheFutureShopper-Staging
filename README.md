@@ -1,2 +1,3 @@
 # TheFutureShopper-Staging
-![screen5](https://github.com/techleadpro/TheFutureShopper-Staging/assets/129011467/990bb095-ea0e-48fc-aa2b-cc0531a381bd)
+
+![Future+Shopper+Logo](https://github.com/techleadpro/TheFutureShopper-Staging/assets/129011467/056b5419-07b1-4854-812c-0b3ec3a264c2)
